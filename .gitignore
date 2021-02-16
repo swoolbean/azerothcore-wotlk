@@ -7,7 +7,9 @@ conf/*
 apps/drassil/*
 env/dist/*
 env/user/*
+!modules/
 modules/*
+!modules/AzerothCore-Bot
 !modules/*.md
 !modules/*.sh
 build*/

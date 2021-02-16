@@ -1,0 +1,3 @@
+[submodule "modules/AzerothCore-Bot"]
+	path = modules/AzerothCore-Bot
+	url = git@github.com:swoolbean/AzerothCore-Bot.git
