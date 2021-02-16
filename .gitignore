@@ -10,6 +10,7 @@ env/user/*
 modules/*
 !modules/*.md
 !modules/*.sh
+!modules/AzerothCore-Bot/*
 build*/
 var/*
 docker/build/cache
